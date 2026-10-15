@@ -5,12 +5,12 @@ import io
 
 # ページ基本設定
 st.set_page_config(
-    page_title="＠ポケット用 画像リサイズツール",
+    page_title="画像リサイズツール",
     page_icon="🖼️",
     layout="centered"
 )
 
-st.title("🖼️ ＠ポケット用 画像リサイズツール")
+st.title("🖼️ 画像リサイズツール")
 st.markdown("アップロードした画像（JPG/PNG等）のサイズを**2分の1（または指定倍率）**に一括縮小します。＠ポケットの容量節約にご活用ください！")
 st.markdown("---")
 
